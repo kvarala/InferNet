@@ -1,0 +1,9 @@
+aerial
+flower
+leaf
+root
+seed
+seedling
+shoot
+silique
+stem
